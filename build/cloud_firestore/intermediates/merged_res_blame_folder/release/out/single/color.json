@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ngounepeetprogress/Downloads/amazon-clone-main/build/cloud_firestore/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/ngounepeetprogress/.gradle/caches/transforms-3/21000aefe530bf56bd5b563530bc44d6/transformed/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/ngounepeetprogress/Downloads/amazon-clone-main/build/cloud_firestore/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/ngounepeetprogress/.gradle/caches/transforms-3/21000aefe530bf56bd5b563530bc44d6/transformed/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/ngounepeetprogress/Downloads/amazon-clone-main/build/cloud_firestore/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/ngounepeetprogress/.gradle/caches/transforms-3/21000aefe530bf56bd5b563530bc44d6/transformed/jetified-play-services-base-18.0.1/res/color/common_google_signin_btn_text_light.xml"
+    }
+]

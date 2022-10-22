@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/ngounepeetprogress/Downloads/amazon-clone-main/build/image_picker_android/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/ngounepeetprogress/.gradle/caches/transforms-3/57f4cd564758adde7987d912ee985986/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/ngounepeetprogress/Downloads/amazon-clone-main/build/image_picker_android/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/ngounepeetprogress/.gradle/caches/transforms-3/57f4cd564758adde7987d912ee985986/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/ngounepeetprogress/Downloads/amazon-clone-main/build/image_picker_android/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/ngounepeetprogress/.gradle/caches/transforms-3/57f4cd564758adde7987d912ee985986/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/ngounepeetprogress/Downloads/amazon-clone-main/build/image_picker_android/intermediates/res/merged/debug/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/ngounepeetprogress/.gradle/caches/transforms-3/57f4cd564758adde7987d912ee985986/transformed/core-1.6.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/ngounepeetprogress/Downloads/amazon-clone-main/build/image_picker_android/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/ngounepeetprogress/.gradle/caches/transforms-3/57f4cd564758adde7987d912ee985986/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    }
+]

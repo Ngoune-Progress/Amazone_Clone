@@ -1,0 +1,4 @@
+#Tue Sep 06 05:34:52 WAT 2022
+base.0=/Users/ngounepeetprogress/Downloads/amazon-clone-main/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
